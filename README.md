@@ -10,3 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jhgarcia.1231@gmail.com
 
 
+Skills
+•	SQL (SQL Server, MySQL, PostgreSQL)
+•	Python (Pandas, NumPy, SciPy, MatPlotLib)
+•	Tableau
+•	RStudio (tseries, Smooth, Forecast)
+•	Excel (VLookup, Conditional Formatting, Pivot Tables)
+•	English: B2
+•	Spanish: Native
+•	French: A2
