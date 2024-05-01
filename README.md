@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 Skills
-- SQL (SQL Server, MySQL, PostgreSQL)
+- SQL (SQL Server, MySQL)
 - Python (Pandas, NumPy, SciPy, MatPlotLib)
 - Tableau
 - RStudio (tseries, Smooth, Forecast)
